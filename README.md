@@ -1,3 +1,6 @@
+<img src='images/KakaoTalk_20230524_134358382.jpg' width=300 height=200> </img>
+
+
 ![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=노숨숨%&fontSize=90&animation=blink)
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=NohSoomi)](https://github.com/NohSoomi)
